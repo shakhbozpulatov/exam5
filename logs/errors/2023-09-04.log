@@ -1,0 +1,463 @@
+[2023-09-04 11:39:52] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:39:52] [[31merror[39m] uncaughtException: Cannot find module 'xlsx'
+Require stack:
+- E:\Najot talim\Exam5\back\src\index.js
+- E:\Najot talim\Exam5\back\src\server.js
+Error: Cannot find module 'xlsx'
+Require stack:
+- E:\Najot talim\Exam5\back\src\index.js
+- E:\Najot talim\Exam5\back\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\index.js:9:14)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-09-04 11:40:10] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:40:10] [[31merror[39m] uncaughtException: Cannot find module './routes/index'
+Require stack:
+- E:\Najot talim\Exam5\back\src\server.js
+Error: Cannot find module './routes/index'
+Require stack:
+- E:\Najot talim\Exam5\back\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-09-04 11:40:54] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:40:54] [[31merror[39m] uncaughtException: router.AuthRoutes is not a constructor
+TypeError: router.AuthRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-09-04 11:41:04] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:41:04] [[31merror[39m] uncaughtException: Cannot find module './routes/index'
+Require stack:
+- E:\Najot talim\Exam5\back\src\server.js
+Error: Cannot find module './routes/index'
+Require stack:
+- E:\Najot talim\Exam5\back\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-09-04 11:41:06] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:41:06] [[31merror[39m] uncaughtException: router.AuthRoutes is not a constructor
+TypeError: router.AuthRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-09-04 11:41:08] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:41:09] [[31merror[39m] uncaughtException: Cannot find module 'jsonwebtoken'
+Require stack:
+- E:\Najot talim\Exam5\back\src\controllers\auth.js
+- E:\Najot talim\Exam5\back\src\routes\auth.js
+- E:\Najot talim\Exam5\back\src\server.js
+Error: Cannot find module 'jsonwebtoken'
+Require stack:
+- E:\Najot talim\Exam5\back\src\controllers\auth.js
+- E:\Najot talim\Exam5\back\src\routes\auth.js
+- E:\Najot talim\Exam5\back\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)
+    at Module._load (node:internal/modules/cjs/loader:920:27)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\controllers\auth.js:4:13)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+[2023-09-04 11:41:54] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:41:54] [[31merror[39m] uncaughtException: router.AuthRoutes is not a constructor
+TypeError: router.AuthRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-09-04 11:42:22] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:42:22] [[31merror[39m] uncaughtException: router.AuthRoutes is not a constructor
+TypeError: router.AuthRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-09-04 11:42:24] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:42:24] [[31merror[39m] uncaughtException: router.AuthRoutes is not a constructor
+TypeError: router.AuthRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-09-04 11:42:51] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:42:51] [[31merror[39m] uncaughtException: router.AuthRoutes is not a constructor
+TypeError: router.AuthRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-09-04 11:42:55] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:42:56] [[31merror[39m] uncaughtException: router.AuthRoutes is not a constructor
+TypeError: router.AuthRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-09-04 11:43:41] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:43:41] [[31merror[39m] uncaughtException: router.AuthRoutes is not a constructor
+TypeError: router.AuthRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-09-04 11:43:53] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:43:53] [[31merror[39m] uncaughtException: router.AuthRoutes is not a constructor
+TypeError: router.AuthRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-09-04 11:44:03] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:44:03] [[31merror[39m] uncaughtException: router.AuthRoutes is not a constructor
+TypeError: router.AuthRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-09-04 11:44:09] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:44:10] [[31merror[39m] uncaughtException: router.AuthRoutes is not a constructor
+TypeError: router.AuthRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-09-04 11:48:05] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:48:06] [[31merror[39m] uncaughtException: router.AuthRoutes is not a constructor
+TypeError: router.AuthRoutes is not a constructor
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-09-04 11:55:06] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:55:06] [[31merror[39m] uncaughtException: cookieParser is not defined
+ReferenceError: cookieParser is not defined
+    at #initMiddleware (E:\Najot talim\Exam5\back\src\index.js:36:15)
+    at new App (E:\Najot talim\Exam5\back\src\index.js:18:25)
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:5:13)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+[2023-09-04 11:55:40] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 11:55:41] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 11:55:41] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:00:07] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:00:07] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:00:07] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:00:16] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:00:16] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:00:16] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:01:11] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:01:12] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:01:12] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:01:22] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:01:22] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:01:22] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:02:00] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:02:00] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:02:00] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:02:12] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:02:13] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:02:13] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:02:46] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:02:47] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:02:47] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:03:00] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:03:00] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:03:00] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:48:03] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:48:04] [[31merror[39m] uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (E:\Najot talim\Exam5\back\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as post] (E:\Najot talim\Exam5\back\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at AuthRoutes.initRoutes (E:\Najot talim\Exam5\back\src\routes\auth.js:21:17)
+    at new AuthRoutes (E:\Najot talim\Exam5\back\src\routes\auth.js:15:10)
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:6:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-09-04 12:48:30] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:48:31] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:48:31] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:48:57] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:48:57] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:48:57] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:49:08] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:49:08] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:49:08] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:49:32] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:49:32] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:49:32] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:49:49] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:49:49] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:49:49] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:50:01] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:50:01] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:50:01] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:50:08] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:50:09] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:50:09] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:51:30] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:51:30] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:51:30] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:51:53] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:51:53] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:51:53] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:54:25] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:54:25] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:54:25] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:54:37] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:54:37] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:54:37] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:57:19] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:57:20] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:57:20] [[32minfo[39m] Routes loaded!
+[2023-09-04 12:57:52] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 12:57:53] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 12:57:53] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:04:01] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:04:01] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:04:01] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:05:01] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:05:01] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:05:01] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:13:38] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:13:38] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:13:38] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:13:44] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:13:44] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:13:44] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:13:52] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:13:52] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:13:52] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:14:02] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:14:02] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:14:02] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:14:11] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:14:12] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:14:12] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:14:16] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:14:16] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:14:16] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:14:30] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:14:30] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:14:30] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:14:36] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:14:36] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:14:36] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:17:08] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:17:09] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:17:09] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:27:30] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:27:30] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:27:30] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:36:23] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:36:24] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:36:24] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:36:49] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:36:49] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:36:49] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:37:01] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:37:01] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:37:01] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:37:43] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:37:43] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:37:43] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:37:58] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:37:58] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:37:58] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:38:12] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:38:12] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:38:12] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:38:30] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:38:30] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:38:30] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:38:31] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:38:32] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:38:32] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:38:34] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:38:34] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:38:34] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:40:06] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:40:06] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:40:06] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:40:46] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:40:47] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:40:47] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:41:01] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:41:02] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:41:02] [[32minfo[39m] Routes loaded!
+[2023-09-04 14:41:08] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 14:41:08] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 14:41:08] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:06:29] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:06:30] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:06:30] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:06:35] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:06:36] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:06:36] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:07:04] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:07:04] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:07:04] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:07:14] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:07:15] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:07:15] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:08:32] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:08:32] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:08:32] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:08:46] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:08:46] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:08:46] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:10:06] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:10:06] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:10:06] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:10:15] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:10:15] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:10:15] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:10:53] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:10:53] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:10:53] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:13:29] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:13:29] [[31merror[39m] uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (E:\Najot talim\Exam5\back\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\route.js:211:15)
+    at proto.<computed> [as get] (E:\Najot talim\Exam5\back\node_modules\.pnpm\express@4.18.2\node_modules\express\lib\router\index.js:521:19)
+    at UsersRoutes.initRoutes (E:\Najot talim\Exam5\back\src\routes\users.js:20:17)
+    at new UsersRoutes (E:\Najot talim\Exam5\back\src\routes\users.js:15:10)
+    at Object.<anonymous> (E:\Najot talim\Exam5\back\src\server.js:7:5)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+[2023-09-04 15:14:43] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:14:43] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:14:43] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:15:25] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:15:26] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:15:26] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:15:50] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:15:50] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:15:50] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:16:16] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:16:16] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:16:16] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:17:57] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:17:57] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:17:57] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:18:13] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:18:13] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:18:13] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:18:34] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:18:34] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:18:34] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:18:51] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:18:51] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:18:51] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:19:16] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:19:16] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:19:16] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:19:28] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:19:28] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:19:28] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:20:51] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:20:52] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:20:52] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:21:07] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:21:07] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:21:07] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:21:10] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:21:10] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:21:10] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:26:51] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:26:52] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:26:52] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:27:04] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:27:05] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:27:05] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:27:09] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:27:09] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:27:09] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:27:14] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:27:14] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:27:14] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:27:31] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:27:32] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:27:32] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:27:37] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:27:37] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:27:37] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:28:05] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:28:05] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:28:05] [[32minfo[39m] Routes loaded!
+[2023-09-04 15:28:37] [[32minfo[39m] Environment variables loaded!
+[2023-09-04 15:28:37] [[32minfo[39m] Middleware's loaded!
+[2023-09-04 15:28:37] [[32minfo[39m] Routes loaded!
